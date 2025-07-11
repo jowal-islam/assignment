@@ -54,6 +54,29 @@
     font-size:65;
     font-weight: bold;
 }
+/* action secton start */
+.action-section{
+    width:850px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #4E47FF; */
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.action{
+    width: 260px;
+}
+.action-img{
+    border-radius: 10px;
+}
+.action-heading{
+  font-size: 30px;
+  font-weight: bold;
+}
+.action-description{
+    color:#252432;
+    font-size: 15px;
+}
   
 
 
