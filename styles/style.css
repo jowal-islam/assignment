@@ -77,6 +77,48 @@
     color:#252432;
     font-size: 15px;
 }
+/* action section end */
+
+.productive-user{
+    background-color:#9999b2;
+    width: 850px;
+    margin: 0 auto;
+   
+}
+.user-heading{
+    text-align: center;
+}
+.viewer{
+    width: 700px;
+    background-color: rgb(91, 115, 157);
+    margin: 0 auto;
+    border-radius: 10px;
+   
+    
+}
+.view{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+   
+}
+
+.first{
+    color: #4E47FF;
+    font-size: 70px;
+    font-weight: bold;
+}
+.second{
+    color: #4E47FF;
+    font-size: 70px;
+    font-weight: bold;
+}
+.third{
+     color: #4E47FF;
+    font-size: 70px;
+    font-weight: bold;
+}
+
   
 
 
