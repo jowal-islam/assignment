@@ -1,9 +1,8 @@
 
-h1{
-    color: antiquewhite;
-}
+
 /* common style start */
-.btn{
+
+.my-btn{
  
      background-color: #4E47FF; /* সবুজ রঙ */
       border: none;
@@ -16,11 +15,21 @@ h1{
       border-radius: 5px;
       transition: background-color 0.3s, transform 0.2s;
       cursor: pointer;
-      width: 80px;
-      height: 30px;
+
 }
-.btn:hover{
+.sing-up{
+    width:80px;
+    height: 30px;
+    margin-top: 20px;
+}
+.my-btn:hover{
     background-color:#45a049;
+}
+/* common style end */
+.header{
+    background-image: url("../Assets/Hero-bg.png");
+    height: 400px;
+    background-repeat: no-repeat;
 }
 .logo{
     color: #4E47FF;
@@ -29,5 +38,23 @@ h1{
 .logo-section{
     display: flex;
     justify-content: space-between;
-    margin: 0 100px;
+    margin: 10px 40px;
+  
 }
+/* second-banner */
+.second-banner{
+   text-align: center;
+   width:505px;
+   height: 177px;
+   /* background-color: #4E47FF; */
+  margin: 0 auto;
+  margin-top: 120px;
+}
+.heading{
+    font-size:65;
+    font-weight: bold;
+}
+  
+
+
+
