@@ -199,3 +199,48 @@ body{
 .contact-form button:hover {
   background-color: #3733dc;
 } 
+------------
+/* footer */
+.footer {
+  
+  background-color: #f9f9ff;
+  padding: 60px 20px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.footer .logo {
+  text-align: center;
+  font-size: 48px;
+  font-weight: 900;
+  color: #4a3aff;
+  margin-bottom: 20px;
+}
+
+.footer .tagline {
+  font-size: 16px;
+  color: #7c7c8c;
+  max-width: 600px;
+  margin: 0 auto 30px;
+  line-height: 1.6;
+}
+
+.footer-nav {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.footer-nav li a {
+  text-decoration: none;
+  color: #7c7c8c;
+  font-size: 15px;
+  transition: color 0.3s ease;
+}
+
+.footer-nav li a:hover {
+  color: #4a3aff;
+}
