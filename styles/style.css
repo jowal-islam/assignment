@@ -226,6 +226,7 @@ body{
 }
 
 .footer-nav {
+  margin-bottom: 30px;
   list-style: none;
   padding: 0;
   display: flex;
